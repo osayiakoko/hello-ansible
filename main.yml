@@ -1,0 +1,6 @@
+---
+- name: test_ansible
+  hosts: localhost
+
+  roles:
+   - print
